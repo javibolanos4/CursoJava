@@ -55,8 +55,8 @@ public class EjercicioAA7 {
 		 
 		 String tiempoHoy = json.get("today").toString().split("\"")[3];
 		 String tiempoMañana = json.get("tomorrow").toString().split("\"")[3];
-		 //System.out.println(tiempoHoy);
-		 //System.out.println(tiempoMañana);
+		 System.out.println(tiempoHoy);
+		 System.out.println(tiempoMañana);
 		 
 		 
 		 //Creo el archivo Jenkins
