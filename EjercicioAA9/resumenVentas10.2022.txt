@@ -1,0 +1,30 @@
+Nombre Aerolinea: Iberia
+Ubicacion Aerolinea: Madrid
+CEO: Joaquin
+*************
+BARCELONA
+Cantidad de Pasajes: 20000
+Turno:  mañana
+Ganancia Neta: 1000000
+Cantidad de Pasajeros: 10000
+-------------------
+BERLIN
+Cantidad de Pasajes: 6000
+Turno:  mañana
+Ganancia Neta: 300000
+Cantidad de Pasajeros: 3000
+-------------------
+Buenos Aires
+Cantidad de Pasajes: 5000
+Turno:  mañana
+Ganancia Neta: 250000
+Cantidad de Pasajeros: 2500
+-------------------
+Madrid
+Cantidad de Pasajes: 15000
+Turno:  mañana
+Ganancia Neta: 750000
+Cantidad de Pasajeros: 7500
+-------------------
+******************
+GANANCIA TOTAL: 2300000
